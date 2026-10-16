@@ -19,7 +19,7 @@ export async function onRequest(context) {
         'fuck', 'admin', '2048', 'cnm', '8964', '统一', '統一', 
         'tongyi', '91', '操', '肏', '幹', '干', '87', 'csn', 
         'nm', '納粹', '纳粹', '德意志', '低能', '唐三小', '洨', 
-        'xjp', '习', '習'
+        'xjp', '习', '習', 'oobe'
     ];
 
     // GET: 讀取排行榜前 10 名
